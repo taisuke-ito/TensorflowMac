@@ -9,6 +9,7 @@ https://github.com/tensorflow/tensorflow.git
 #### ■Mac-optimized TensorFlow and TensorFlow Addonsは、Apple社です。
 
 https://github.com/apple/tensorflow_macos.git
+
 https://github.com/apple/tensorflow_macos/issues/153
 
 
